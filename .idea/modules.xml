@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIngleton/SIngleton.iml" filepath="$PROJECT_DIR$/SIngleton/SIngleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonSample/SingletonSample.iml" filepath="$PROJECT_DIR$/SingletonSample/SingletonSample.iml" />
+    </modules>
+  </component>
+</project>
