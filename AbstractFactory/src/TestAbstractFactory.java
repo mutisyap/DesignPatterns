@@ -12,9 +12,15 @@ public class TestAbstractFactory {
 
         Computer server = ComputerFactory.getComputer(new ServerFactory("16 GB", "1 TB SSD", "2.9 GHZ"));
 
+        Computer laptop = ComputerFactory.getComputer(new LaptopFactory("4 GB", "750 GB", "1.9 GHZ"));
+
         System.out.println("Abstract Factory PC Config::"+pc);
 
         System.out.println("Abstract Factory Server Config::"+server);
+
+        System.out.println("Abstract Factory Laptop Config::"+laptop);
+
+
 
     }
 }
